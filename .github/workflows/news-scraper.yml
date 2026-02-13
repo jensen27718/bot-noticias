@@ -1,0 +1,51 @@
+name: Cucuta News Telegram Bot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-notify:
+    concurrency:
+      group: cucuta-news-scraper
+      cancel-in-progress: false
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NEWS_URL: https://cucuta.gov.co/ultimas-noticias/
+          STATE_FILE: state/seen_news.json
+          INITIAL_SEND_COUNT: "5"
+        run: python scraper.py
+
+      - name: Commit state changes
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain state/seen_news.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state/seen_news.json
+            git commit -m "chore: update seen news state"
+            git push
+          else
+            echo "No state changes."
+          fi
