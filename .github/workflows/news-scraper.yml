@@ -1,4 +1,4 @@
-name: Cucuta News Telegram Bot
+name: News Telegram Bot
 
 on:
   workflow_dispatch:
@@ -37,9 +37,9 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          NEWS_URL: https://cucuta.gov.co/ultimas-noticias/
           STATE_FILE: state/seen_news.json
           INITIAL_SEND_COUNT: "5"
+          ENABLED_SOURCES: cucuta,mintic_convocatorias,mintic_noticias
         run: python scraper.py
 
       - name: Commit state changes
