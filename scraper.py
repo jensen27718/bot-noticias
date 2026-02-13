@@ -155,7 +155,8 @@ def fetch_news_cucuta(source: Source, timeout_seconds: int) -> list[NewsItem]:
     response = requests.get(source.url, headers=headers, timeout=timeout_seconds)
     response.raise_for_status()
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    # Use bytes so BeautifulSoup can detect the correct encoding from meta tags.
+    soup = BeautifulSoup(response.content, "html.parser")
     posts = soup.select("div.post.type-post, div.post")
     if not posts:
         posts = soup.select("article.post")
@@ -214,7 +215,9 @@ def fetch_news_mintic(source: Source, timeout_seconds: int) -> list[NewsItem]:
     response = requests.get(source.url, headers=headers, timeout=timeout_seconds)
     response.raise_for_status()
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    # MinTIC pages often declare a misleading encoding in HTTP headers.
+    # Parsing from bytes lets BeautifulSoup detect UTF-8 correctly.
+    soup = BeautifulSoup(response.content, "html.parser")
     date_by_aid: dict[str, str] = {}
 
     for date_node in soup.select("div.fecha"):
