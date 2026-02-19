@@ -2,6 +2,9 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/legalizacion-de-49-predios-abre-paso-a-la-inversion-publica-en-escenarios-deportivos-y-comunitarios/",
+        "https://cucuta.gov.co/alcaldia-de-cucuta-y-arenorte-inician-recorrido-ambiental-para-promover-el-reciclaje/",
+        "https://cucuta.gov.co/atencion-a-dos-incendios-estructurales-en-cucuta/",
         "https://cucuta.gov.co/mas-de-800-estudiantes-de-cucuta-reciben-kits-escolares-y-uniformes-para-blindar-su-derecho-a-la-educacion/",
         "https://cucuta.gov.co/alcaldia-socializo-los-avances-de-la-ruta-incluyente-y-productiva/",
         "https://cucuta.gov.co/alcaldia-de-cucuta-completa-la-conformacion-del-consejo-municipal-de-cultura-para-el-periodo-2026-2028/",
@@ -16,7 +19,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-02-19T13:44:34Z"
+      "updated_at_utc": "2026-02-19T15:09:35Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -40,7 +43,7 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-02-19T13:44:34Z"
+      "updated_at_utc": "2026-02-19T15:09:35Z"
     },
     "mintic_noticias": {
       "seen_urls": [
@@ -77,8 +80,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-02-19T13:44:34Z"
+      "updated_at_utc": "2026-02-19T15:09:35Z"
     }
   },
-  "updated_at_utc": "2026-02-19T13:44:34Z"
+  "updated_at_utc": "2026-02-19T15:09:35Z"
 }
