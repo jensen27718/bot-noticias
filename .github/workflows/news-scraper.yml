@@ -42,6 +42,36 @@ jobs:
           ENABLED_SOURCES: cucuta,mintic_convocatorias,mintic_noticias
         run: python scraper.py
 
+      - name: Notify Telegram on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WORKFLOW_NAME: ${{ github.workflow }}
+          RUN_NUMBER: ${{ github.run_number }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+          EVENT_NAME: ${{ github.event_name }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Missing Telegram secrets. Skipping failure notification."
+            exit 0
+          fi
+
+          MESSAGE=$(cat <<EOF
+          ALERTA: fallo en el scraper de noticias
+          Workflow: $WORKFLOW_NAME
+          Run: #$RUN_NUMBER (intento $RUN_ATTEMPT)
+          Evento: $EVENT_NAME
+          Detalle: $RUN_URL
+          EOF
+          )
+
+          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=${MESSAGE}" \
+            --data-urlencode "disable_web_page_preview=true"
+
       - name: Commit state changes
         if: always()
         run: |
