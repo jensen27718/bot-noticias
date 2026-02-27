@@ -2,6 +2,8 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/operativos-de-recuperacion-del-espacio-publico-continuan-en-cucuta-con-el-fin-de-fortalecer-la-seguridad-y-la-sana-convivencia/",
+        "https://cucuta.gov.co/alcalde-jorge-acevedo-impulsa-estrategia-de-seguridad-con-enfoque-juvenil-en-cucuta/",
         "https://cucuta.gov.co/atencion-oportuna-ante-emergencia-por-derrame-de-quimico-peligroso-en-san-luis/",
         "https://cucuta.gov.co/estan-abiertas-las-inscripciones-para-emprende-kids-2026/",
         "https://cucuta.gov.co/alerta-preventiva-por-incremento-de-lluvias-en-norte-de-santander/",
@@ -31,7 +33,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-02-27T15:53:56Z"
+      "updated_at_utc": "2026-02-27T17:01:33Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -55,7 +57,7 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-02-27T15:53:56Z"
+      "updated_at_utc": "2026-02-27T17:01:33Z"
     },
     "mintic_noticias": {
       "seen_urls": [
@@ -101,8 +103,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-02-27T15:53:56Z"
+      "updated_at_utc": "2026-02-27T17:01:33Z"
     }
   },
-  "updated_at_utc": "2026-02-27T15:53:56Z"
+  "updated_at_utc": "2026-02-27T17:01:33Z"
 }
