@@ -2,6 +2,8 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/publicacion-aplicacion-criterios-de-desempate-empleo-tecnico-operativo-codigo-314-grado-04/",
+        "https://cucuta.gov.co/resultados-definitivos-proceso-de-encargo-11-marzo-2026/",
         "https://cucuta.gov.co/secretaria-de-habitat-avanza-en-la-actualizacion-de-predios-fiscales-en-cucuta/",
         "https://cucuta.gov.co/casa-de-justicia-de-la-libertad-fortalece-el-acceso-gratuito-a-la-justicia-en-las-comunas-3-y-4/",
         "https://cucuta.gov.co/sisben-llega-a-la-comuna-8/",
@@ -42,7 +44,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-03-11T22:44:15Z"
+      "updated_at_utc": "2026-03-11T23:44:01Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -66,10 +68,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-03-11T22:44:15Z"
+      "updated_at_utc": "2026-03-11T23:44:01Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428298:Emprendimiento-Digital-2026-continua-su-apuesta-por-el-fortalecimiento-de-los-ecosistemas-de-innovacion-digital-del-pais",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428311:En-Manizales-comienza-la-gira-nacional-de-Colombia-5-0-en-2026",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428305:Desde-Pereira-avanza-la-construccion-territorial-de-una-politica-publica-en-Educacion-Digital",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428301:Entidades-con-dominios-gov-co-mil-co-edu-co-y-org-co-deben-registrarse-en-nueva-plataforma",
@@ -139,8 +142,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-03-11T22:44:15Z"
+      "updated_at_utc": "2026-03-11T23:44:01Z"
     }
   },
-  "updated_at_utc": "2026-03-11T22:44:15Z"
+  "updated_at_utc": "2026-03-11T23:44:01Z"
 }
