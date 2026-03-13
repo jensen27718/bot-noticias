@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/alcaldia-realizo-jornada-de-bienestar-para-mujeres-privadas-de-la-libertad-en-la-estacion-de-policia-de-guaimaral/",
         "https://cucuta.gov.co/publicacion-aplicacion-criterios-de-desempate-empleo-tecnico-operativo-codigo-314-grado-04/",
         "https://cucuta.gov.co/resultados-definitivos-proceso-de-encargo-11-marzo-2026/",
         "https://cucuta.gov.co/secretaria-de-habitat-avanza-en-la-actualizacion-de-predios-fiscales-en-cucuta/",
@@ -44,7 +45,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-03-13T15:04:46Z"
+      "updated_at_utc": "2026-03-13T15:59:13Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -68,10 +69,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-03-13T15:04:46Z"
+      "updated_at_utc": "2026-03-13T15:59:13Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428477:Avanzan-mesas-de-trabajo-para-reglamentacion-de-Ley-de-Entornos-Digitales-Saludables",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428460:MinTIC-acompana-la-conmemoracion-del-Dia-Nacional-de-Victimas-Quibdo-sera-sede-del-acto-central-el-9-de-abril",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428454:Construccion-de-la-Politica-Nacional-de-Educacion-Digital-recibe-aportes-de-sector-educativo-de-Arauca",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/428447:Colombia-potencia-su-industria-creativa-con-la-convocatoria-Crea-Digital-2026-enfocada-en-asistencia-tecnica-y-fortalecimiento-de-capacidades",
@@ -147,8 +149,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-03-13T15:04:46Z"
+      "updated_at_utc": "2026-03-13T15:59:13Z"
     }
   },
-  "updated_at_utc": "2026-03-13T15:04:46Z"
+  "updated_at_utc": "2026-03-13T15:59:13Z"
 }
