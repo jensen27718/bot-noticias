@@ -2,6 +2,8 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/empresarios-cucutenos-fortalecen-su-crecimiento-en-la-feria-de-insumos-mas-importante-del-mundo-en-canton-china/",
+        "https://cucuta.gov.co/con-presencia-del-ejercito-en-las-calles-cucuta-refuerza-su-ofensiva-contra-el-delito/",
         "https://cucuta.gov.co/alcaldia-adelanta-operativos-de-seguridad-y-control-del-espacio-publico-en-el-centro-de-la-ciudad/",
         "https://cucuta.gov.co/en-el-marco-del-dia-nacional-de-las-victimas-fortalecemos-la-prevencion-del-delito-con-jornadas-permanentes-de-orientacion-y-proteccion/",
         "https://cucuta.gov.co/cucuta-fortalece-la-inclusion-laboral-con-jornada-de-empleo-para-poblacion-con-discapacidad/",
@@ -69,7 +71,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-04-16T14:16:20Z"
+      "updated_at_utc": "2026-04-16T15:59:26Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -93,10 +95,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-04-16T14:16:20Z"
+      "updated_at_utc": "2026-04-16T15:59:26Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/436981:Social-Tech-supera-los-100-000-inscritos-Colombia-se-prepara-para-convertir-su-talento-digital-en-ingresos",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/436974:La-Casa-de-la-TV-Publica-abrio-sus-puertas-en-el-FICCI-con-el-lanzamiento-de-las-grandes-producciones-regionales-de-2026",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/436967:Social-Tech-llega-a-San-Victorino-el-corazon-comercial-de-Bogota-se-transforma-para-vender-mas-en-el-mundo-digital",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/436966:Guardianas-de-Tierra-Viva-la-fuerza-de-las-mujeres-lideresas-llega-a-la-pantalla-nacional-con-su-segunda-temporad",
@@ -268,8 +271,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-04-16T14:16:20Z"
+      "updated_at_utc": "2026-04-16T15:59:26Z"
     }
   },
-  "updated_at_utc": "2026-04-16T14:16:20Z"
+  "updated_at_utc": "2026-04-16T15:59:26Z"
 }
