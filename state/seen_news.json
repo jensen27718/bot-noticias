@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/estrategia-crece-seguro-continua-fortaleciendo-entornos-escolares-protegidos-en-cucuta/",
         "https://cucuta.gov.co/con-recuperarte-los-jovenes-podran-disfrutar-de-cuatro-nuevos-escenarios-para-los-deportes-extremos/",
         "https://cucuta.gov.co/alcaldia-realizo-recorridos-de-verificacion-y-monitoreo-tras-las-lluvias-registradas-en-las-ultimas-horas/",
         "https://cucuta.gov.co/juzgado-sexto-de-ejecucion-de-penas-y-medidas-de-seguridad-de-cucuta-3/",
@@ -87,7 +88,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-04-27T16:57:46Z"
+      "updated_at_utc": "2026-04-27T18:43:09Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -111,10 +112,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-04-27T16:57:46Z"
+      "updated_at_utc": "2026-04-27T18:43:09Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/437305:Gobierno-Petro-conecto-3-5-millones-de-hogares-en-tres-anos-y-por-primera-vez-mas-de-la-mitad-de-los-hogares-rurales-tienen-internet",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/437300:Ministerio-TIC-extiende-hasta-el-29-de-abril-el-plazo-para-recibir-comentarios-al-proyecto-de-decreto-sobre-entornos-digitales-sanos-y-seguros-para-ninos-ninas-y-adolescentes",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/437298:Recibidas-194-manifestaciones-de-interes-de-uso-de-la-banda-de-900-MHz",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/437297:Jovenes-que-Transforman-2026-cerro-en-tiempo-record-confirmando-el-interes-de-la-juventud-por-contar-sus-territorios",
@@ -324,8 +326,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-04-27T16:57:46Z"
+      "updated_at_utc": "2026-04-27T18:43:09Z"
     }
   },
-  "updated_at_utc": "2026-04-27T16:57:46Z"
+  "updated_at_utc": "2026-04-27T18:43:09Z"
 }
