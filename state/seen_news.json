@@ -2,6 +2,14 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/alcaldia-de-cucuta-intensifica-estrategias-de-prevencion-ante-posible-ingreso-de-casos-importados-de-sarampion/",
+        "https://cucuta.gov.co/centro-tecnologico-de-cucuta-abre-nuevamente-inscripciones-para-programas-tecnicos-laborales-gratuitos/",
+        "https://cucuta.gov.co/pongase-pilas-con-el-sisben-y-consulte-su-categoria/",
+        "https://cucuta.gov.co/cucuta-fortalece-la-gobernanza-cultural-en-la-tercera-sesion-del-consejo-municipal-de-cultura/",
+        "https://cucuta.gov.co/secretaria-de-salud-atendio-oportunamente-a-un-ciudadano-en-condicion-de-vivienda-no-formal/",
+        "https://cucuta.gov.co/cucuta-se-une-al-reto-global-baila-por-el-planeta-en-la-conmemoracion-del-dia-del-medio-ambiente/",
+        "https://cucuta.gov.co/alcaldia-atendio-emergencia-en-colinas-del-salado/",
+        "https://cucuta.gov.co/alcaldia-fortalece-la-orientacion-tributaria-con-visitas-pedagogicas-a-establecimientos-comerciales/",
         "https://cucuta.gov.co/notificacion-por-aviso-web-mandamiento-de-pago-impuesto-industria-y-comercio-vigencia-2020/",
         "https://cucuta.gov.co/notificacion-por-aviso-de-auto-n-0082-del13-de-mayo-de-2026/",
         "https://cucuta.gov.co/la-jefatura-de-talento-humano-de-la-alcaldia-municipal-de-san-jose-de-cucuta-notificacion-por-aviso-2/",
@@ -101,7 +109,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-06-05T20:17:41Z"
+      "updated_at_utc": "2026-06-05T22:36:59Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -125,10 +133,13 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-06-05T20:17:41Z"
+      "updated_at_utc": "2026-06-05T22:36:59Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438656:Canal-TRO-conmemora-el-dia-mundial-del-medio-ambiente-con-el-estreno-de-la-septima-temporada-de-El-buen-vivir",
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438655:Ultima-oportunidad-para-acceder-a-cursos-gratuitos-con-Cisco-y-Google-a-traves-de-AvanzaTEC",
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438654:Abre-Camara-es-protagonista-de-la-TV-publica-en-junio",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438648:Publicado-informe-preliminar-de-evaluacion-del-quinto-corte-para-la-asignacion-de-permisos-de-uso-del-espectro-radioelectrico",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438647:MinTIC-cierra-el-corte-4-del-PSO-de-espectro-con-la-asignacion-de-cuatro-permisos-para-el-uso-de-frecuencias-en-las-bandas-VHF-y-UHF",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/438646:AvanzaTEC-compartio-experiencias-de-inteligencia-artificial-e-inclusion-en-Medellin",
@@ -486,8 +497,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-06-05T20:17:41Z"
+      "updated_at_utc": "2026-06-05T22:36:59Z"
     }
   },
-  "updated_at_utc": "2026-06-05T20:17:41Z"
+  "updated_at_utc": "2026-06-05T22:36:59Z"
 }
