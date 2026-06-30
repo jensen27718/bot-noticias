@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/plan-de-bienestar-e-incentivos-2026-2/",
         "https://cucuta.gov.co/audiencia-publica-de-participacion-para-el-otorgamiento-de-titulos-mineros/",
         "https://cucuta.gov.co/juzgado-sexto-de-ejecucion-de-penas-y-medidas-de-seguridadde-cucuta-presentada-por-ceiri-patricia-jaramillo-valencia/",
         "https://cucuta.gov.co/juzgado-sexto-de-ejecucion-de-penas-y-medidas-de-seguridad-de-cucuta-accion-tutela-no-54001318700620260009400-t053/",
@@ -118,7 +119,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-06-30T17:17:21Z"
+      "updated_at_utc": "2026-06-30T20:21:43Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -142,7 +143,7 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-06-30T17:17:21Z"
+      "updated_at_utc": "2026-06-30T20:21:43Z"
     },
     "mintic_noticias": {
       "seen_urls": [
@@ -562,8 +563,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-06-30T17:17:21Z"
+      "updated_at_utc": "2026-06-30T20:21:43Z"
     }
   },
-  "updated_at_utc": "2026-06-30T17:17:21Z"
+  "updated_at_utc": "2026-06-30T20:21:43Z"
 }
