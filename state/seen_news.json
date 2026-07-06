@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/decreto-n-0206-del-06-de-julio-de-2026/",
         "https://cucuta.gov.co/plan-de-bienestar-e-incentivos-2026-2/",
         "https://cucuta.gov.co/audiencia-publica-de-participacion-para-el-otorgamiento-de-titulos-mineros/",
         "https://cucuta.gov.co/juzgado-sexto-de-ejecucion-de-penas-y-medidas-de-seguridadde-cucuta-presentada-por-ceiri-patricia-jaramillo-valencia/",
@@ -119,7 +120,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-07-06T12:59:54Z"
+      "updated_at_utc": "2026-07-06T16:31:24Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -143,10 +144,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-07-06T12:59:54Z"
+      "updated_at_utc": "2026-07-06T16:31:24Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439490:Vuelve-el-Bogota-Audiovisual-Market-principal-encuentro-de-la-industria-audiovisual-del-pais",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439473:MinTIC-y-el-Tecnologico-de-Monterrey-abren-convocatoria-para-impulsar-el-talento-digital-colombiano-con-maestrias-virtuales",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439369:MinTIC-recibio-cuatro-propuestas-de-pilotos-de-conectividad-rural-en-la-primera-etapa-del-Sandbox-Regulatorio",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439467:Publicado-para-comentarios-proyecto-de-decreto-que-fortalece-la-financiacion-del-Servicio-Postal-Universal",
@@ -572,8 +574,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-07-06T12:59:54Z"
+      "updated_at_utc": "2026-07-06T16:31:24Z"
     }
   },
-  "updated_at_utc": "2026-07-06T12:59:54Z"
+  "updated_at_utc": "2026-07-06T16:31:24Z"
 }
