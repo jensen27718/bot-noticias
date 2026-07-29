@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/servidores-publicos-de-la-planta-central-de-la-alcaldia-desan-jose-de-cucuta-2/",
         "https://cucuta.gov.co/decreto-n-0246-del-24-de-julio-2026/",
         "https://cucuta.gov.co/decreto-n-0245-del-21-de-julio-2026/",
         "https://cucuta.gov.co/decreto-n-0235-del-15-de-julio-2026/",
@@ -132,7 +133,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-07-29T21:14:07Z"
+      "updated_at_utc": "2026-07-29T22:16:06Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -156,10 +157,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-07-29T21:14:07Z"
+      "updated_at_utc": "2026-07-29T22:16:06Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439955:MinTIC-invita-a-las-entidades-publicas-a-fortalecer-la-implementacion-de-la-Ley-de-Transparencia-durante-la-autoevaluacion-del-ITA",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439953:Asi-protege-el-Ministerio-TIC-la-navegacion-segura-de-los-colombianos-cuidando-del-DNS",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439948:Concluyo-la-fase-de-comentarios-para-el-protocolo-contra-el-racismo-en-el-sector-TIC",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/439947:La-television-publica-llega-como-protagonista-a-los-Premios-Principe-de-los-Paramos-2026",
@@ -619,8 +621,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-07-29T21:14:07Z"
+      "updated_at_utc": "2026-07-29T22:16:06Z"
     }
   },
-  "updated_at_utc": "2026-07-29T21:14:07Z"
+  "updated_at_utc": "2026-07-29T22:16:06Z"
 }
