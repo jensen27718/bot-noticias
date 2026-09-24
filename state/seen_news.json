@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/liquidacion-oficial-lf24093050-del-13-01-2026-respuesta-al-radicado-n-2026190031013162-del-senor-giovanni-martin-rolon-tiria/",
         "https://cucuta.gov.co/contancia-de-firmeza-y-ejecutoria-de-la-resolucion-n-049-del-16-de-septiembre-de-2026/",
         "https://cucuta.gov.co/constancia-de-firmeza-y-ejecutoria-de-la-resolucion-n-046-del-8-de-septiembre-2026/",
         "https://cucuta.gov.co/resultados-finales-proceso-de-encargo-interno/",
@@ -141,7 +142,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-09-24T15:12:57Z"
+      "updated_at_utc": "2026-09-24T19:15:44Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -165,10 +166,12 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-09-24T15:12:57Z"
+      "updated_at_utc": "2026-09-24T19:15:44Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441123:Ciudad-Bolivar-recibe-dos-dias-de-tecnologia-e-innovacion-con-Colombia-5-0",
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441120:Bogota-es-el-punto-de-encuentro-para-convertir-tecnologia-en-soluciones-para-los-territorios",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441118:Solicitud-de-excepcion-del-pago-de-la-contraprestacion-TIC-ahora-se-puede-tramitar-de-manera-digital",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441114:A-traves-de-Datos-al-Ecosistema-2026-el-Ministerio-TIC-impulsa-soluciones-con-datos-abiertos-e-inteligencia-artificial",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441113:Emprendedores-de-Bogota-Pasto-y-Pitalito-se-capacitaran-gratuitamente-en-Inteligencia-Artificial-y-marketing-digital",
@@ -701,8 +704,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-09-24T15:12:57Z"
+      "updated_at_utc": "2026-09-24T19:15:44Z"
     }
   },
-  "updated_at_utc": "2026-09-24T15:12:57Z"
+  "updated_at_utc": "2026-09-24T19:15:44Z"
 }
