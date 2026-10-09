@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/el-canal-virtual-yo-denuncio-del-sitio-web-institucional-bajo-el-radicado-radicado-n-20260922-0636/",
         "https://cucuta.gov.co/inspeccion-cuarta-urbana-de-policia-secretaria-de-gobierno-aviso-fijacion-de-fecha-y-hora-para-diligencia-de-desalojo-matricula-inmobiliaria-260-55425/",
         "https://cucuta.gov.co/juzgado-septimo-civil-municipal-de-oralidad-de-cucuta-radicado-54-001-40-03-007-2026-00634-00-centro-de-proteccion-del-adulto-mayor-de-la-ong-corpodinco-en-cucuta/",
         "https://cucuta.gov.co/aviso-a-la-comunidad-busqueda-urgente-de-familiares-y-o-allegados-de-persona-fallecida-franki-yaair-cordero-tibaduisa/",
@@ -145,7 +146,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-10-09T16:21:37Z"
+      "updated_at_utc": "2026-10-09T21:44:29Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -169,10 +170,11 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-10-09T16:21:37Z"
+      "updated_at_utc": "2026-10-09T21:44:29Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441252:En-el-Dia-Mundial-del-Correo-el-Ministerio-TIC-celebra-su-aporte-a-la-comunicacion-y-la-economia-de-las-regiones",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441247:Disponible-para-consulta-el-informe-de-evaluacion-del-corte-12-del-PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441248:Otorgados-permisos-de-uso-del-espectro-radioelectrico-a-cinco-empresas-del-pais",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/441244:Llega-Sinergia-Tech-una-plataforma-que-conecta-a-emprendedores-academia-y-lideres-de-la-industria-TI-para-impulsar-la-transformacion-digital-de-Colombia",
@@ -723,8 +725,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-10-09T16:21:37Z"
+      "updated_at_utc": "2026-10-09T21:44:29Z"
     }
   },
-  "updated_at_utc": "2026-10-09T16:21:37Z"
+  "updated_at_utc": "2026-10-09T21:44:29Z"
 }
