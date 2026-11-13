@@ -2,6 +2,7 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/comisaria-de-familia-zona-de-atalaya-comuna-7-citacion-de-caracter-obligatorio-a-juan-gabriel-barragan-ferreira/",
         "https://cucuta.gov.co/plan-de-bienestar-e-incentivos-2026-version-3/",
         "https://cucuta.gov.co/inclusiones-realizadas-a-algunos-empleos-del-proceso-de-encargo/",
         "https://cucuta.gov.co/comunicacion-oficial-sobre-la-disponibilidad-del-sistema-de-informacion-del-servicio-publico-de-empleo-sise-y-las-gestiones-adelantadas-para-atender-la-situacion-presentada/",
@@ -154,7 +155,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-11-13T09:40:33Z"
+      "updated_at_utc": "2026-11-13T17:50:18Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -178,10 +179,12 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-11-13T09:40:33Z"
+      "updated_at_utc": "2026-11-13T17:50:18Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442521:Colombia-cuenta-con-el-nuevo-Equipo-CazaRed-Ninez-Segura-especializado-en-combatir-el-reclutamiento-de-menores-en-redes-sociales",
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442516:Siete-aplicaciones-del-Ministerio-TIC-en-mantenimiento-para-fortalecer-su-operacion",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442516:Seis-aplicaciones-del-Ministerio-TIC-en-mantenimiento-para-fortalecer-su-operacion",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442511:Ejercito-Nacional-condecora-a-la-ministra-TIC-Alexandra-Falla-por-su-apoyo-a-las-comunicaciones-militares",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442510:Crea-Digital-realizara-un-webinar-gratuito-sobre-narrativas-inmersivas-y-nuevas-formas-de-contar-historias",
@@ -776,8 +779,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-11-13T09:40:33Z"
+      "updated_at_utc": "2026-11-13T17:50:18Z"
     }
   },
-  "updated_at_utc": "2026-11-13T09:40:33Z"
+  "updated_at_utc": "2026-11-13T17:50:18Z"
 }
