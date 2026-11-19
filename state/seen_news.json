@@ -2,6 +2,9 @@
   "sources": {
     "cucuta": {
       "seen_urls": [
+        "https://cucuta.gov.co/notificacion-por-audiencia-del-senor-juan-gabriel-barragan-ferreira-con-la-comisaria-de-familia-de-la-comuna-7/",
+        "https://cucuta.gov.co/resultados-de-la-aplicacion-de-criterios-de-desempate-proceso-de-encargo/",
+        "https://cucuta.gov.co/resolucion-n-desajcur26-3204-del-20-de-octubre-de-2026/",
         "https://cucuta.gov.co/respuesta-anonima-al-radicado-n-202611142139/",
         "https://cucuta.gov.co/juzgado-septimo-administrativo-del-circuito-de-cucuta-proteccion-de-los-derechos-e-intereses-colectivos-demandante-luis-emilio-cobos-mantilla/",
         "https://cucuta.gov.co/comisaria-de-familia-zona-de-atalaya-comuna-7-citacion-de-caracter-obligatorio-a-juan-gabriel-barragan-ferreira/",
@@ -157,7 +160,7 @@
         "https://cucuta.gov.co/construccion-de-box-culvert-fortalece-la-estabilidad-vial-en-el-barrio-gaitan/",
         "https://cucuta.gov.co/alcaldia-habilita-nuevo-canal-para-solicitar-brigadas-del-sisben/"
       ],
-      "updated_at_utc": "2026-11-19T13:25:42Z"
+      "updated_at_utc": "2026-11-19T22:15:17Z"
     },
     "mintic_convocatorias": {
       "seen_urls": [
@@ -181,10 +184,12 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326747:Ministerio-TIC-lanza-convocatoria-para-llevar-Internet-gratuito-a-1-180-escuelas-rurales-en-municipios-PDET-a-traves-de-Findeter-S-A",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/326690:ISP-podran-participar-de-la-primera-convocatoria-para-llevar-Internet-fijo-a-hogares-de-estratos-1-y-2-en-6-departamentos"
       ],
-      "updated_at_utc": "2026-11-19T13:25:42Z"
+      "updated_at_utc": "2026-11-19T22:15:17Z"
     },
     "mintic_noticias": {
       "seen_urls": [
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442568:Emprendedores-aprenderan-como-fortalecer-sus-negocios-con-inteligencia-artificial-y-marketing-digital",
+        "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442567:La-inteligencia-artificial-una-apuesta-para-transformar-la-gestion-publica-en-los-departamentos",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442563:Invias-Inteligente-tecnologia-para-modernizar-las-vias-y-fortalecer-la-seguridad-de-los-viajeros-con-el-MinTIC",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442559:Addi-anuncia-en-Nueva-York-una-inversion-de-mas-de-US-2-000-millones-para-ampliar-el-credito-formal-en-Colombia",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442546:Colombia-fortalecera-las-habilidades-digitales-y-la-inteligencia-artificial-gracias-a-Memorando-de-Entendimiento-firmado-por-MinTIC-y-Meta-en-la-Milagro-Week",
@@ -791,8 +796,8 @@
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426256:PSO-de-asignacion-de-permisos-de-uso-del-espectro-radioelectrico-surte-la-etapa-de-pluralidad-de-interesados",
         "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/426251:MinTIC-avanza-en-la-modernizacion-de-los-servicios-postales-de-pago-para-reducir-brechas-sociales-y-digitales"
       ],
-      "updated_at_utc": "2026-11-19T13:25:42Z"
+      "updated_at_utc": "2026-11-19T22:15:17Z"
     }
   },
-  "updated_at_utc": "2026-11-19T13:25:42Z"
+  "updated_at_utc": "2026-11-19T22:15:17Z"
 }
